@@ -62,5 +62,9 @@ botaoCategoria.forEach((botao) => {
 function filtrarPorCategoria(filtro) {
   const videos = document.querySelectorAll("videos__item");
 
-  
+  for(video fo videos) {
+    if{
+      
+    }
+  }
 }
